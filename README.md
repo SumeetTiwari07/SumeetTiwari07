@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Bioinformatician :man_technologist: at [Quadram Institute](https://quadram.ac.uk/) at Norwich, UK. I have expertise in analysing whole-genome sequencing (WGS) data mainly bacteria.
+I'm a Bioinformatician :man_technologist: working on genomic and metagenomic data.
 
 I did my PhD at [Robert Koch Institute](https://www.rki.de/EN/Home/homepage_node.html), Berlin, Germany (2017-2021). My research work was focused on identifying the host-specific genomic determinants of E. coli, by applying a microbial genome-wide association study (GWAS). The study was performed on a diverse collection of ~ 1200 E. coli isoates. Link to [disseration](https://refubium.fu-berlin.de/handle/fub188/33223)
 
